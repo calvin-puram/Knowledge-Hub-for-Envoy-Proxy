@@ -5,13 +5,20 @@
 This is a curated knowledge repository of best practices, techniques, tools, tutorials and case studies that can help you learn more about Envoy Proxy.
 
 ## Contents
-- [Courses and Tutorials](#courses-and-tutorials)
+- [Getting Started Guide](#getting-started-guide)
 - [Books](#books)
 - [Videos](#videos)
 - [Configuration Generator](#configuration-generator)
 - [Case Studies](#case-studies)
 - [Contributing](#contributing)
 
+
+## Getting Started Guide
+* [Getting started with Envoy Proxy for microservices resilience](https://www.getambassador.io/resources/getting-started-envoyproxy-microservices-resilience).
+* [Get started with Envoy Proxy in 5 minutes](https://tetrate.io/blog/get-started-with-envoy-in-5-minutes/).
+* [Get Started with Envoy on your Laptop](https://blog.turbinelabs.io/getting-started-with-envoy-on-your-laptop-1b1a7073fd8e).
+* [I tried Getting Started with Envoy](https://iceburn.medium.com/i-tried-getting-started-with-envoy-d6680f69bc3).
+* [How to use Envoy as a Load Balancer in Kubernetes](https://blog.markvincze.com/how-to-use-envoy-as-a-load-balancer-in-kubernetes/).
 
 
 ## Configuration generator
