@@ -6,19 +6,41 @@ This is a curated knowledge repository of best practices, techniques, tools, tut
 
 ## Contents
 - [Getting Started Guide](#getting-started-guide)
-- [Books](#books)
-- [Videos](#videos)
+- [Envoy Architecture](#envoy-architecture)
+- [EnvoyCon](#envoycon)
 - [Configuration Generator](#configuration-generator)
 - [Case Studies](#case-studies)
 - [Contributing](#contributing)
 
 
 ## Getting Started Guide
+This section is dedicated to providing articles on how to get started with Envoy, an open-source edge and service proxy. Whether you're a beginner or looking to expand your knowledge, these articles will help you understand the basics and get started with Envoy.
+
 * [Getting started with Envoy Proxy for microservices resilience](https://www.getambassador.io/resources/getting-started-envoyproxy-microservices-resilience).
 * [Get started with Envoy Proxy in 5 minutes](https://tetrate.io/blog/get-started-with-envoy-in-5-minutes/).
 * [Get Started with Envoy on your Laptop](https://blog.turbinelabs.io/getting-started-with-envoy-on-your-laptop-1b1a7073fd8e).
 * [I tried Getting Started with Envoy](https://iceburn.medium.com/i-tried-getting-started-with-envoy-d6680f69bc3).
 * [How to use Envoy as a Load Balancer in Kubernetes](https://blog.markvincze.com/how-to-use-envoy-as-a-load-balancer-in-kubernetes/).
+
+
+## Envoy Architecture
+This section focuses on articles related to the Envoy architecture.
+
+* [Architecture overview: Envoy Docs](https://www.envoyproxy.io/docs/envoy/latest/intro/arch_overview/arch_overview).
+* [What is Envoy](https://www.envoyproxy.io/docs/envoy/latest/intro/what_is_envoy).
+* [Envoy Proxy: Concepts, Architecture & Quick Tutorial](https://www.solo.io/topics/envoy-proxy/).
+* [Anatomy of envoy proxy: the architecture of envoy and how it works](https://songrgg.github.io/architecture/deeper-understanding-to-envoy/).
+* [Service Mesh with Envoy](https://www.loginradius.com/blog/engineering/service-mesh-with-envoy/).
+
+
+## EnvoyCon
+In this section, you will find a collection of talks and presentation slides that are focused on Envoy. These resources were presented at EnvoyCon, a conference dedicated to all things Envoy.
+
+* [Architecture overview: Envoy Docs](https://www.envoyproxy.io/docs/envoy/latest/intro/arch_overview/arch_overview).
+* [What is Envoy](https://www.envoyproxy.io/docs/envoy/latest/intro/what_is_envoy).
+* [Envoy Proxy: Concepts, Architecture & Quick Tutorial](https://www.solo.io/topics/envoy-proxy/).
+* [Anatomy of envoy proxy: the architecture of envoy and how it works](https://songrgg.github.io/architecture/deeper-understanding-to-envoy/).
+* [Service Mesh with Envoy](https://www.loginradius.com/blog/engineering/service-mesh-with-envoy/).
 
 
 ## Configuration generator
@@ -33,6 +55,8 @@ Get ready to supercharge your Envoy setup with these top-notch configuration gen
 
 
 ## Case Studies
+In this section, readers will find case studies that showcase how various organizations have implemented Envoy in their operations. These case studies provide insights into the practical applications and benefits of using Envoy in different contexts.
+
 * [Dropbox: How we migrated Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy).
 * [Mux: Envoy as a service-to-service proxy](https://www.mux.com/blog/envoy-as-a-service-to-service-proxy).
 * [Monzo: We deployed Envoy Proxy to make Monzo faster](https://monzo.com/blog/2019/04/03/deploying-envoy-proxy).
