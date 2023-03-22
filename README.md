@@ -1,4 +1,4 @@
-# Envoy Proxy: A Comprehensive List of Resources
+# Knowledge Hub for Envoy Proxy!
 ![envoy-title](./img/envoy.png)
 > Envoy Proxy is a high-performance, open-source edge and service proxy designed for cloud-native applications, and with its versatile features, it has become an essential component in modern application architectures.
 # Introduction
@@ -7,6 +7,7 @@ This is a curated knowledge repository of best practices, techniques, tools, tut
 ## Contents
 - [Getting Started Guide](#getting-started-guide)
 - [EnvoyCon](#envoycon)
+- [Tools and Extensions](#tools-and-extensions)
 - [Configuration Generator](#configuration-generator)
 - [Case Studies](#case-studies)
 - [Contributing](#contributing)
@@ -25,10 +26,11 @@ This section is dedicated to providing articles on how to get started with Envoy
 * [Envoy Proxy: Concepts, Architecture & Quick Tutorial](https://www.solo.io/topics/envoy-proxy/).
 * [Anatomy of envoy proxy: the architecture of envoy and how it works](https://songrgg.github.io/architecture/deeper-understanding-to-envoy/).
 * [Service Mesh with Envoy](https://www.loginradius.com/blog/engineering/service-mesh-with-envoy/).
+* [Service mesh data plane vs. control plane](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc).
 
 
 ## EnvoyCon
-In this section, you will find a collection of talks and presentation slides that are focused on Envoy. These resources were presented at EnvoyCon, a conference dedicated to all things Envoy.
+In this section, you will find a collection of talks that are focused on Envoy. These resources were presented at EnvoyCon, a conference dedicated to all things Envoy.
 
 ### 2022
 * [Leveraging Envoy to Implement Micro-Segmentation-Based Security Policies](https://youtu.be/EKyV_m--Dk0).
@@ -105,18 +107,32 @@ In this section, you will find a collection of talks and presentation slides tha
 
 ## Configuration Generator
 You may need an Envoy configuration generator to simplify the process of configuring and deploying Envoy proxies in your infrastructure. An Envoy configuration generator can help automate this process by providing a user-friendly interface for defining your proxy's behavior, and then generating the corresponding configuration file automatically.
-
-Get ready to supercharge your Envoy setup with these top-notch configuration generators!
-
 * [Front proxy template](https://github.com/envoyproxy/envoy/blob/9f65b998949f89170decb393dbaa591924820df9/configs/envoy_front_proxy.template.yaml).
 * [Double proxy template](https://github.com/envoyproxy/envoy/blob/9f65b998949f89170decb393dbaa591924820df9/configs/envoy_double_proxy.template.yaml).
 * [Service to service template](https://github.com/envoyproxy/envoy/blob/9f65b998949f89170decb393dbaa591924820df9/configs/envoy_service_to_service.template.yaml).
 * [Generator script](https://github.com/envoyproxy/envoy/blob/9f65b998949f89170decb393dbaa591924820df9/configs/configgen.py).
 
 
+## Tools and Extensions
+Supercharge your Envoy setup with these top-notch tools, extensions and example configurations
+* [K8s-native AuthN/AuthZ service to protect your APIs](https://github.com/Kuadrant/authorino).
+* [Custom envoy extensions](https://github.com/envoyproxy/envoy/tree/main/source/extensions).
+* [Limitador: rate limiter](https://github.com/Kuadrant/limitador).
+* [A plugin to enforce OPA policies with Envoy](https://github.com/open-policy-agent/opa-envoy-plugin).
+* [Easy auth for reverse proxies](https://github.com/travisghansen/external-auth-server).
+* [Starter Envoy configurations for various use cases](https://github.com/envoyproxy/envoy/tree/main/examples).
+* [Example of consuming Envoy and adding a custom filter](https://github.com/envoyproxy/envoy-filter-example).
+* [Envoy Proxy Big Book of Examples](https://github.com/repenno/envoybigbook).
+* [Envoy filters in Go](https://github.com/myteksi/ego-demo).
+* [Istio/Envoy RBAC & ABAC authorization middleware based on Casbin](https://github.com/casbin/envoy-authz).
+* [Ansible Role for Envoy Proxy](https://github.com/hugoprudente/ansible-role-envoyproxy).
+* [Envoy config linter](https://envoylint.com/).
+* [Teaching myself about Envoy on Kubernetes](https://github.com/bakins/kubernetes-envoy-example).
+* [Envoy config linter](https://envoylint.com/).
+
+
 ## Case Studies
 In this section, readers will find case studies that showcase how various organizations have implemented Envoy in their operations. These case studies provide insights into the practical applications and benefits of using Envoy in different contexts.
-
 * [Dropbox: How we migrated Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy).
 * [Mux: Envoy as a service-to-service proxy](https://www.mux.com/blog/envoy-as-a-service-to-service-proxy).
 * [Monzo: We deployed Envoy Proxy to make Monzo faster](https://monzo.com/blog/2019/04/03/deploying-envoy-proxy).
