@@ -8,6 +8,7 @@ This is a curated knowledge repository of best practices, techniques, tools, tut
 - [Getting Started Guide](#getting-started-guide)
 - [EnvoyCon](#envoycon)
 - [Tools and Extensions](#tools-and-extensions)
+- [Projects Built on Envoy Proxy](#projects-built-on-envoy-proxy)
 - [Configuration Generator](#configuration-generator)
 - [Case Studies](#case-studies)
 - [Contributing](#contributing)
@@ -129,6 +130,30 @@ Supercharge your Envoy setup with these top-notch tools, extensions and example 
 * [Envoy config linter](https://envoylint.com/).
 * [Teaching myself about Envoy on Kubernetes](https://github.com/bakins/kubernetes-envoy-example).
 * [Envoy config linter](https://envoylint.com/).
+
+## Projects Built on Envoy Proxy
+### Open Source Projects
+* [Ambassador: an open source K8s-native API Gateway built on Envoy](https://github.com/emissary-ingress/emissary).
+* [Cilium : secure network connectivity between application workloads](https://github.com/cilium/cilium).
+* [Cloud Foundry: abstracts away infrastructure so you can focus on app innovation](https://github.com/cloudfoundry).
+* [Consul Connect service mesh: offers first-class support for using Envoy as a proxy](https://github.com/hashicorp/consul).
+* [Contour: an Ingress controller for Kubernetes](https://github.com/projectcontour/contour).
+* [Enroute Universal Gateway: an Open-Source Envoy powered Cloud-Native API Gateway](https://github.com/saarasio/enroute).
+* [Gimbal: a layer 7 load balancing platform built on Kubernetes](https://github.com/projectcontour/gimbal).
+* [Func-e: allows you to quickly see available versions of Envoy and try them out](https://github.com/tetratelabs/func-e).
+* [Gloo Edge: an open-source function gateway built on top of the Envoy Proxy](https://github.com/solo-io/gloo).
+* [Istio: provides a uniform way to connect, manage, and secure microservices](https://github.com/istio).
+* [Kuma: an open-source control plane for Service Mesh and Microservices](https://github.com/kumahq/kuma).
+* [Gloo Mesh: delivers connectivity, security, observability, and reliability for workloads](https://github.com/solo-io/gloo-mesh).
+
+### Commercial Offerings
+* [App Mesh: uses Envoy as its service proxy](https://aws.amazon.com/app-mesh/).
+* [Grey Matter: a cloud-native, cloud agnostic intelligent service mesh](https://www.greymatter.io/).
+* [Instana: is the Application Performance Management solution](https://www.instana.com/).
+* [Octarine: delivers total visibility, easy policy management, and strong app security](https://www.vmware.com/security.html).
+* [Solo.io: develops tools to help the enterprise adopt innovative cloud technologies](https://www.solo.io/).
+* [Tetrate: manage the complexity of modern, hybrid cloud application infrastructure](https://tetrate.io/).
+* [Datawire's toolkit: empowers developers to adopt a cloud-native development workflow for K8s services.](https://www.getambassador.io/?utm_source=https://www.datawire.io/).
 
 
 ## Case Studies
