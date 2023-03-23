@@ -6,6 +6,8 @@ This is a curated knowledge repository of best practices, techniques, tools, tut
 
 ## Contents
 - [Getting Started Guide](#getting-started-guide)
+- [Videos](#videos)
+- [Course & Certifications](#course-&-certifications)
 - [EnvoyCon](#envoycon)
 - [Tools and Extensions](#tools-and-extensions)
 - [Projects Built on Envoy Proxy](#projects-built-on-envoy-proxy)
@@ -19,6 +21,9 @@ This section is dedicated to providing articles on how to get started with Envoy
 
 * [Getting started with Envoy Proxy for microservices resilience](https://www.getambassador.io/resources/getting-started-envoyproxy-microservices-resilience).
 * [Get started with Envoy Proxy in 5 minutes](https://tetrate.io/blog/get-started-with-envoy-in-5-minutes/).
+* [Envoy threading model](https://blog.envoyproxy.io/envoy-threading-model-a8d44b922310).
+* [Envoy hot restart](https://blog.envoyproxy.io/envoy-hot-restart-1d16b14555b5).
+* [Envoy stats](https://blog.envoyproxy.io/envoy-stats-b65c7f363342).
 * [Get Started with Envoy on your Laptop](https://blog.turbinelabs.io/getting-started-with-envoy-on-your-laptop-1b1a7073fd8e).
 * [I tried Getting Started with Envoy](https://iceburn.medium.com/i-tried-getting-started-with-envoy-d6680f69bc3).
 * [How to use Envoy as a Load Balancer in Kubernetes](https://blog.markvincze.com/how-to-use-envoy-as-a-load-balancer-in-kubernetes/).
@@ -28,6 +33,29 @@ This section is dedicated to providing articles on how to get started with Envoy
 * [Anatomy of envoy proxy: the architecture of envoy and how it works](https://songrgg.github.io/architecture/deeper-understanding-to-envoy/).
 * [Service Mesh with Envoy](https://www.loginradius.com/blog/engineering/service-mesh-with-envoy/).
 * [Service mesh data plane vs. control plane](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc).
+
+## Videos
+* [Domain Driven Design - Clean Architecture using EnvoyProxy API Gateway](https://youtu.be/CpJykFQ5wo8).
+* [Envoy Proxy is Your Gateway to Service Mesh](https://www.youtube.com/live/j8pvQ1ftC24).
+* [Deploying Envoy in K8s and Configuring as Load Balancer](https://youtu.be/qqG64yt4H5c).
+* [Load balancing and HTTP Routing with Envoy Proxy](https://youtu.be/D0cuv1AEftE).
+* [What is Envoy Proxy and What you need it for Microservices](https://youtu.be/Wu2KDFJv66Y).
+* [Understanding the Basics of Envoy Configuration](https://youtu.be/E-UpGmj6B9M).
+* [Developing Envoy Wasm Extensions](https://www.youtube.com/live/JIq8wujlG9s).
+* [Envoy on Fire: A Practical Look at Debugging a Service Mesh](https://youtu.be/6jnzo8QXyDk).
+* [Envoy Fundamentals](https://www.youtube.com/live/f0QEHEm9ERc).
+* [Build an API Gateway with Envoy and use with .NET Core APIs](https://youtu.be/UsoH5cqE1OA).
+* [Hands-on Workshop: Envoy Metrics Demystified Workshop](https://youtu.be/Vlgw3GYUDiM).
+* [Cloud-Native Building Blocks: An Interactive Envoy Proxy Workshop](hhttps://youtu.be/SNM-wnyRR8U).
+* [Envoy Proxy Crash Course, Architecture, L7 & L4 Proxying, HTTP/2, Enabling TLS 1.2/1.3](https://youtu.be/40gKzHQWgP0).
+
+
+## Course & Certifications
+* [Get Started with Envoy Proxy - Free](https://academy.solo.io/get-started-with-envoy-proxy-with-fundamentals-for-envoy-certification).
+* [Learn Envoy Fundamentals - Free](https://academy.tetrate.io/courses/envoy-fundamentals).
+* [Learn Istio Fundamentals - Free](https://academy.tetrate.io/courses/istio-fundamentals).
+* [Certified Istio Administrator - Premium](https://academy.tetrate.io/courses/certified-istio-administrator).
+* [Learn Istio Fundamentals](https://academy.tetrate.io/courses/istio-fundamentals).
 
 
 ## EnvoyCon
