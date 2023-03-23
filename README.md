@@ -46,7 +46,7 @@ This section is dedicated to providing articles on how to get started with Envoy
 * [Envoy Fundamentals](https://www.youtube.com/live/f0QEHEm9ERc).
 * [Build an API Gateway with Envoy and use with .NET Core APIs](https://youtu.be/UsoH5cqE1OA).
 * [Hands-on Workshop: Envoy Metrics Demystified Workshop](https://youtu.be/Vlgw3GYUDiM).
-* [Cloud-Native Building Blocks: An Interactive Envoy Proxy Workshop](hhttps://youtu.be/SNM-wnyRR8U).
+* [Cloud-Native Building Blocks: An Interactive Envoy Proxy Workshop](https://youtu.be/SNM-wnyRR8U).
 * [Envoy Proxy Crash Course, Architecture, L7 & L4 Proxying, HTTP/2, Enabling TLS 1.2/1.3](https://youtu.be/40gKzHQWgP0).
 
 
@@ -55,7 +55,7 @@ This section is dedicated to providing articles on how to get started with Envoy
 * [Learn Envoy Fundamentals - Free](https://academy.tetrate.io/courses/envoy-fundamentals).
 * [Learn Istio Fundamentals - Free](https://academy.tetrate.io/courses/istio-fundamentals).
 * [Certified Istio Administrator - Premium](https://academy.tetrate.io/courses/certified-istio-administrator).
-* [Learn Istio Fundamentals](https://academy.tetrate.io/courses/istio-fundamentals).
+
 
 
 ## EnvoyCon
@@ -200,4 +200,11 @@ In this section, readers will find case studies that showcase how various organi
 * [Pinterest: Running Envoy at the Edge](https://youtu.be/4x5WjxAMvKY).
 * [Ebay: Running Envoy at the Edge](https://youtu.be/a1tXFUrqt5M).
 * [Square: Envoy at Square](https://youtu.be/7uU6tYt3v0c).
+
+## Contributing
+Please take a look at the [contribution guidelines](CONTRIBUTING.md) first. Contributions are always welcome!
+If you have any question about this opinionated list, do not hesitate to contact me [@cpuram1](https://twitter.com/cpuram1) on Twitter or open an issue on GitHub.
+
+
+
 
