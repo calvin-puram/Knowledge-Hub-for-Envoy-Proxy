@@ -64,6 +64,11 @@ This section is dedicated to providing articles on how to get started with Envoy
 ## EnvoyCon
 In this section, you will find a collection of talks that are focused on Envoy. These resources were presented at EnvoyCon, a conference dedicated to all things Envoy.
 
+### 2023
+* [Envoy Gateway Project Update](https://youtu.be/peWssHWmCUQ?si=0LvOrsatgvNy6jQS).
+* [A Platform-Agnostic Approach to Securing Workloads](https://youtu.be/Z1cfb6nRkd8?si=sFvE7GEoPPaZZCxU).
+* [SLATE: Intelligent Request Routing](https://youtu.be/iBQaaGBQVMA?si=tVQXK71Ty_rgSY74).
+
 ### 2022
 * [Leveraging Envoy to Implement Micro-Segmentation-Based Security Policies](https://youtu.be/EKyV_m--Dk0).
 * [Pushing Envoy Beyond the Edge](https://youtu.be/WZW2UTHFDMs).
