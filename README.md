@@ -48,6 +48,9 @@ This section is dedicated to providing articles on how to get started with Envoy
 * [Hands-on Workshop: Envoy Metrics Demystified Workshop](https://youtu.be/Vlgw3GYUDiM).
 * [Cloud-Native Building Blocks: An Interactive Envoy Proxy Workshop](https://youtu.be/SNM-wnyRR8U).
 * [Envoy Proxy Crash Course, Architecture, L7 & L4 Proxying, HTTP/2, Enabling TLS 1.2/1.3](https://youtu.be/40gKzHQWgP0).
+* [Inside Envoy - The Proxy for the Future](https://www.youtube.com/watch?v=uaksVVHDhYU).
+* [Envoy Gateway: An in-Depth Guide of Its Benefits and Use Cases](https://www.youtube.com/watch?v=06ylMQrj0jU).
+* [A Practical Guide to Understanding and Configuring Envoy Filters](https://www.youtube.com/watch?v=9tITEHHW-J4).
 
 
 ## Course & Certifications
