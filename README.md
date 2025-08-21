@@ -33,6 +33,7 @@ This section is dedicated to providing articles on how to get started with Envoy
 * [Anatomy of envoy proxy: the architecture of envoy and how it works](https://songrgg.github.io/architecture/deeper-understanding-to-envoy/).
 * [Service Mesh with Envoy](https://www.loginradius.com/blog/engineering/service-mesh-with-envoy/).
 * [Service mesh data plane vs. control plane](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc).
+* [External authorization service using Envoy Proxy](https://github.com/ferencsarai/envoy-auth).
 
 ## Videos
 * [Domain Driven Design - Clean Architecture using EnvoyProxy API Gateway](https://youtu.be/CpJykFQ5wo8).
