@@ -65,6 +65,22 @@ This section is dedicated to providing articles on how to get started with Envoy
 ## EnvoyCon
 In this section, you will find a collection of talks that are focused on Envoy. These resources were presented at EnvoyCon, a conference dedicated to all things Envoy.
 
+### 2025
+* [Dynamic Modules: A New Era of High-Performance Envoy Extensions](https://www.youtube.com/watch?v=xIbzq_N79Aw&list=PLj6h78yzYM2MsWSzuhSgNQ0EHxDBXtHQ4&index=1).
+* [Evolve, Adapt, and Adopt: Envoy in the AI Era](https://www.youtube.com/watch?v=sx5p0m2gM5U&list=PLj6h78yzYM2MsWSzuhSgNQ0EHxDBXtHQ4&index=2).
+* [From Overwhelmed to Optimized: How We Cut Envoy Logging Costs by 65% While Boosting Throughput 60%](https://www.youtube.com/watch?v=elgsLSdF3VY&list=PLj6h78yzYM2MsWSzuhSgNQ0EHxDBXtHQ4&index=3).
+* [Fail Open, Fail Fast: Improving Envoy Resilience in Latency-Critical Systems](https://www.youtube.com/watch?v=r34lzQ5aXLo&list=PLj6h78yzYM2MsWSzuhSgNQ0EHxDBXtHQ4&index=4).
+* [Enabling Multi-Cluster Load Balancing with Gateway API and Envoy Gateway](https://www.youtube.com/watch?v=jQWmJUyqYhI&list=PLj6h78yzYM2MsWSzuhSgNQ0EHxDBXtHQ4&index=5).
+* [Taming AI Sprawl: Your First Look at the Envoy AI Gateway](https://www.youtube.com/watch?v=T9RX7cgeYKA&list=PLj6h78yzYM2MsWSzuhSgNQ0EHxDBXtHQ4&index=6).
+* [From Custom to Community: Embracing Envoy for Service Mesh Proxies at ING](https://www.youtube.com/watch?v=PEjfoH9nUss&list=PLj6h78yzYM2MsWSzuhSgNQ0EHxDBXtHQ4&index=10).
+
+### 2024
+* [Building Zero Trust with Envoy - Florin Coras & Pradheep Shrinivasan, Cisco](https://www.youtube.com/watch?v=GZUC-m5_xK0&list=PLj6h78yzYM2N7daAgRmpPMai444u3tCVF&index=3).
+* [Making Envoy Resilient to Sudden Increases in Load - Boteng Yao, Google](https://www.youtube.com/watch?v=7-YEeK2-q-4&list=PLj6h78yzYM2N7daAgRmpPMai444u3tCVF&index=2).
+* [Extending Envoy: A Guide to Custom Extensions with Envoy Gateway - Huabing Zhao & Guy Daich](https://www.youtube.com/watch?v=Y3E0LenR_eg&list=PLj6h78yzYM2N7daAgRmpPMai444u3tCVF&index=5).
+* [Lightning Talk: Deep Dive Into Envoy Metrics - Mark Campbell-Vincent, HashiCorp](https://www.youtube.com/watch?v=Z8dMRul4l8c&list=PLj6h78yzYM2N7daAgRmpPMai444u3tCVF&index=8).
+
+
 ### 2023
 * [Envoy Gateway Project Update](https://youtu.be/peWssHWmCUQ?si=0LvOrsatgvNy6jQS).
 * [A Platform-Agnostic Approach to Securing Workloads](https://youtu.be/Z1cfb6nRkd8?si=sFvE7GEoPPaZZCxU).
